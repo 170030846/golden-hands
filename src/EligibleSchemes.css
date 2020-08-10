@@ -1,0 +1,34 @@
+.eligibleSchemes__title {
+  text-align: center;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+.eligibleSchemes__row {
+  display: flex;
+  z-index: 1;
+  margin-left: 5px;
+  margin-right: 5px;
+}
+.eligibleSchemesTitle {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-end;
+  max-height: 400px;
+  min-width: 100px;
+  background-color: white;
+  margin: 10px;
+  z-index: 1;
+  padding: 20px;
+  width: 100%;
+}
+
+.eligibleSchemesTitle__title {
+  font-size: 17px;
+  font-weight: 800;
+}
+.eligibleSchemesTitle__eligible {
+  margin-top: 10px;
+  font-size: 15px;
+  font-weight: 500;
+}
